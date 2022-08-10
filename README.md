@@ -6,9 +6,9 @@ This Repository provides source code for the paper Path-Link Graph Neural Networ
 Paper [[PDF](https://dl.ifip.org/db/conf/im/im2021/211123.pdf)] 
 
 ## Performance 
-<div align=center><img src="imgs/perf_train.png" align="middle"></div>
+<div align=center><img src="imgs/perf_train.png"></div>
 
-<div align=center><img src="imgs/perf_test.png" align="middle"></div>
+<div align=center><img src="imgs/perf_test.png"></div>
 
 ## Improved Scalability
-<div align=center><img src="imgs/scalability.png" width="400"></div>
+<div align=center><img src="imgs/scalability.png"></div>
